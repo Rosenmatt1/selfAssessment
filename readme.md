@@ -8,5 +8,5 @@
 4. What areas do you feel the most confident in? What is making you happy right now?
 -I feel confident in understanding JavaScript logic and syntax. Still struggle with application.
 5. What technologies/industries are you most excited about currently?
--blockchain, AI, web development
+-blockchain, AI, web development, VR
 
